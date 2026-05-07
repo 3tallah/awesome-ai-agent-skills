@@ -1,0 +1,41 @@
+# Preconfigured defaults for markitdown-converter skill runner
+# Usage:
+#   python convert.py --config doc_config.yml --input "C:/path/file.pdf"
+#   python convert.py --config doc_config.yml --batch
+
+version: "1.0.0"
+
+# Directory mode defaults (used with --batch)
+input_dir: "./input"
+output_dir: "./output"
+
+# Behavior
+overwrite: false
+enable_plugins: false
+
+# Optional Azure Document Intelligence endpoint
+# docintel_endpoint: "https://<resource>.cognitiveservices.azure.com/"
+
+# Restrict or expand supported file extensions for batch mode
+allowed_extensions:
+  - ".pdf"
+  - ".docx"
+  - ".pptx"
+  - ".xlsx"
+  - ".xls"
+  - ".html"
+  - ".htm"
+  - ".csv"
+  - ".json"
+  - ".xml"
+  - ".epub"
+  - ".zip"
+  - ".msg"
+  - ".jpg"
+  - ".jpeg"
+  - ".png"
+  - ".gif"
+  - ".bmp"
+  - ".tiff"
+  - ".wav"
+  - ".mp3"

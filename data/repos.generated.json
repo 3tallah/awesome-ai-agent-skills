@@ -1,0 +1,1388 @@
+{
+  "generatedAt": "2026-05-07T07:02:40.736Z",
+  "source": {
+    "starredListUrl": "https://github.com/3tallah?tab=stars",
+    "repoCount": 50
+  },
+  "collections": [
+    {
+      "title": "Top Azure AI Repos",
+      "description": "Azure-native orchestration, SDKs, and agent-ready skills.",
+      "repoIds": [
+        "microsoft-skills",
+        "hkuds-openspace",
+        "microsoft-vibevoice"
+      ]
+    },
+    {
+      "title": "Best Agent Frameworks",
+      "description": "Multi-agent and orchestration-first repositories worth studying.",
+      "repoIds": [
+        "nousresearch-hermes-agent",
+        "foundationagents-metagpt",
+        "multica-ai-multica"
+      ]
+    },
+    {
+      "title": "Skills and Prompt Packs",
+      "description": "Reusable agent skills, prompts, and workflow accelerators.",
+      "repoIds": [
+        "microsoft-skills",
+        "softaworks-agent-toolkit",
+        "aaron-he-zhu-seo-geo-claude-skills"
+      ]
+    }
+  ],
+  "repositories": [
+    {
+      "id": "silverstein-minutes",
+      "name": "minutes",
+      "owner": "silverstein",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/4837632?u=df0f2643cec1befb282b57275df9035fca785433&v=4",
+      "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Rust",
+      "techStack": [
+        "Rust"
+      ],
+      "stars": 1172,
+      "lastUpdated": "2026-05-07T05:01:08Z",
+      "repoUrl": "https://github.com/silverstein/minutes",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "codeaholicguy-ai-devkit",
+      "name": "ai-devkit",
+      "owner": "codeaholicguy",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/4585708?u=46dddda83b0d81159d688b1438c38836cdea3cdb&v=4",
+      "description": "A universal CLI toolkit for AI agent skills, enabling structured AI-assisted development across tools like Cursor, Claude Code, Codex, and more.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "TypeScript",
+      "techStack": [
+        "TypeScript"
+      ],
+      "stars": 1179,
+      "lastUpdated": "2026-05-07T01:08:20Z",
+      "repoUrl": "https://github.com/codeaholicguy/ai-devkit",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "agents365-ai-drawio-skill",
+      "name": "drawio-skill",
+      "owner": "Agents365-ai",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/221161299?u=da84f7a6140aa21167258e429e57bbad5b804d2b&v=4",
+      "description": "drawio-skill — From Text to Professional Diagrams. An Agent Skill (SKILL.md) that generates draw.io diagrams from natural language and exports to PNG/SVG/PDF. Works with Claude Code, OpenClaw, Hermes Agent, OpenAI Codex, and SkillsMP.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 1246,
+      "lastUpdated": "2026-05-07T06:21:14Z",
+      "repoUrl": "https://github.com/Agents365-ai/drawio-skill",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "aaron-he-zhu-seo-geo-claude-skills",
+      "name": "seo-geo-claude-skills",
+      "owner": "aaron-he-zhu",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/139607425?u=0008814732b83e7254153eee861c1ff7d153d7ad&v=4",
+      "description": "20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audits, rank tracking. CORE-EEAT + CITE frameworks.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Shell",
+      "techStack": [
+        "Shell"
+      ],
+      "stars": 1511,
+      "lastUpdated": "2026-05-07T05:15:41Z",
+      "repoUrl": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "softaworks-agent-toolkit",
+      "name": "agent-toolkit",
+      "owner": "softaworks",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/255869953?v=4",
+      "description": "A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 1733,
+      "lastUpdated": "2026-05-07T02:23:08Z",
+      "repoUrl": "https://github.com/softaworks/agent-toolkit",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "antonbabenko-terraform-skill",
+      "name": "terraform-skill",
+      "owner": "antonbabenko",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/393243?u=942cb9dc4cee4340f2b1ededd903a293101999de&v=4",
+      "description": "Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Unknown",
+      "techStack": [
+        "Unknown"
+      ],
+      "stars": 1804,
+      "lastUpdated": "2026-05-07T03:58:03Z",
+      "repoUrl": "https://github.com/antonbabenko/terraform-skill",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "kevinluosl-deepbot",
+      "name": "deepbot",
+      "owner": "kevinluosl",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/635493?u=e93ff0881d542ffa65343c27dd8689f36507568f&v=4",
+      "description": "DeepBot is a system-level AI assistant built for both personal productivity and enterprise workflows — one-click setup, seamless experience, and native Feishu integration.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "TypeScript",
+      "techStack": [
+        "TypeScript"
+      ],
+      "stars": 1847,
+      "lastUpdated": "2026-05-07T07:00:42Z",
+      "repoUrl": "https://github.com/kevinluosl/deepbot",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "cisco-ai-defense-skill-scanner",
+      "name": "skill-scanner",
+      "owner": "cisco-ai-defense",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/220944709?v=4",
+      "description": "Security Scanner for Agent Skills",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 1932,
+      "lastUpdated": "2026-05-07T06:30:59Z",
+      "repoUrl": "https://github.com/cisco-ai-defense/skill-scanner",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "foryourhealth111-pixel-vibe-skills",
+      "name": "Vibe-Skills",
+      "owner": "foryourhealth111-pixel",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/251585801?u=3b2f67b0122fab86c8ff2a311ae894381f0835d7&v=4",
+      "description": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgrade its functionality—eliminating the friction of fragmented tools and complex harnesses.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 1990,
+      "lastUpdated": "2026-05-07T06:32:31Z",
+      "repoUrl": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "microsoft-skills",
+      "name": "skills",
+      "owner": "microsoft",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+      "description": "Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "TypeScript",
+      "techStack": [
+        "TypeScript"
+      ],
+      "stars": 2245,
+      "lastUpdated": "2026-05-07T06:26:41Z",
+      "repoUrl": "https://github.com/microsoft/skills",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "marktechpost-ai-agents-projects-tutorials",
+      "name": "AI-Agents-Projects-Tutorials",
+      "owner": "Marktechpost",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/90527963?u=238b32989432ce306943b2cd3cb8c93506f90354&v=4",
+      "description": "Multi-agent systems, memory, planning, reasoning loops",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Jupyter Notebook",
+      "techStack": [
+        "Jupyter Notebook"
+      ],
+      "stars": 2549,
+      "lastUpdated": "2026-05-07T05:15:57Z",
+      "repoUrl": "https://github.com/Marktechpost/AI-Agents-Projects-Tutorials",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "thinkinaixyz-deepchat",
+      "name": "deepchat",
+      "owner": "ThinkInAIXYZ",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/195535817?v=4",
+      "description": "🐬DeepChat - A smart assistant that connects powerful AI to your personal world",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "TypeScript",
+      "techStack": [
+        "TypeScript"
+      ],
+      "stars": 5778,
+      "lastUpdated": "2026-05-07T06:58:08Z",
+      "repoUrl": "https://github.com/ThinkInAIXYZ/deepchat",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "ikaijua-awesome-aitools",
+      "name": "Awesome-AITools",
+      "owner": "ikaijua",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/126046795?u=ffaeb29a6a199b2baa7a7d271ae40efa9be51f42&v=4",
+      "description": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 5903,
+      "lastUpdated": "2026-05-07T05:17:09Z",
+      "repoUrl": "https://github.com/ikaijua/Awesome-AITools",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "phuryn-pm-skills",
+      "name": "pm-skills",
+      "owner": "phuryn",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/7837354?u=5296420337b602a3b753640d5fc907b56fb9695f&v=4",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Unknown",
+      "techStack": [
+        "Unknown"
+      ],
+      "stars": 10968,
+      "lastUpdated": "2026-05-07T06:57:39Z",
+      "repoUrl": "https://github.com/phuryn/pm-skills",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "thatonecodes-examtopics-downloader",
+      "name": "examtopics-downloader",
+      "owner": "thatonecodes",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/114317937?u=c2e1d73814fdef2c7c09b5a7c482bb84ad4da41a&v=4",
+      "description": "This repo helps you download all types of exams from https://www.examtopics.com for free.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Go",
+      "techStack": [
+        "Go"
+      ],
+      "stars": 157,
+      "lastUpdated": "2026-05-06T09:37:07Z",
+      "repoUrl": "https://github.com/thatonecodes/examtopics-downloader",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "thedrmaker-drpasswords",
+      "name": "DrPasswords",
+      "owner": "thedrmaker",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/233486384?u=b756c8dcdb1879a03f9a7dbcac4f21a68d26c120&v=4",
+      "description": "Open-source physical password manager built with ESP32-S3 with HID typing and TOTP support.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "C++",
+      "techStack": [
+        "C++"
+      ],
+      "stars": 156,
+      "lastUpdated": "2026-05-06T20:16:21Z",
+      "repoUrl": "https://github.com/thedrmaker/DrPasswords",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "joeyism-linkedin-scraper",
+      "name": "linkedin_scraper",
+      "owner": "joeyism",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/7503144?u=fc030f4c02c0a75617a72259f3b0f7d473aec04e&v=4",
+      "description": "A library that scrapes Linkedin for user data",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 4043,
+      "lastUpdated": "2026-05-07T01:10:05Z",
+      "repoUrl": "https://github.com/joeyism/linkedin_scraper",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "cporter202-social-media-scraping-apis",
+      "name": "social-media-scraping-apis",
+      "owner": "cporter202",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/163957687?u=5ce04617dd7efb28e5362d094b0fc6337757be09&v=4",
+      "description": "A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more. Extract posts, profiles, videos, comments, and engagement metrics.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "JavaScript",
+      "techStack": [
+        "JavaScript"
+      ],
+      "stars": 1129,
+      "lastUpdated": "2026-05-07T00:38:22Z",
+      "repoUrl": "https://github.com/cporter202/social-media-scraping-apis",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "stickerdaniel-linkedin-mcp-server",
+      "name": "linkedin-mcp-server",
+      "owner": "stickerdaniel",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/63877413?u=2e7697d3e83360e057d55dab2eef43cbd7b0cc15&v=4",
+      "description": "Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 1787,
+      "lastUpdated": "2026-05-07T05:22:39Z",
+      "repoUrl": "https://github.com/stickerdaniel/linkedin-mcp-server",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "mattpocock-skills",
+      "name": "skills",
+      "owner": "mattpocock",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/28293365?u=0d66fa0a2c0a4ec5201818081308c14a43b72fe5&v=4",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Shell",
+      "techStack": [
+        "Shell"
+      ],
+      "stars": 63579,
+      "lastUpdated": "2026-05-07T07:02:28Z",
+      "repoUrl": "https://github.com/mattpocock/skills",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "nickemanarin-screentogif",
+      "name": "ScreenToGif",
+      "owner": "NickeManarin",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/14798947?u=3b8eb996aeb9fe617c733a21fd8e067f2c2fcb4f&v=4",
+      "description": "🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "C#",
+      "techStack": [
+        "C#"
+      ],
+      "stars": 26892,
+      "lastUpdated": "2026-05-07T06:56:14Z",
+      "repoUrl": "https://github.com/NickeManarin/ScreenToGif",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "juliusbrussee-caveman",
+      "name": "caveman",
+      "owner": "JuliusBrussee",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/104168679?u=54b2493b3221267dc64b709b068565bc757633ba&v=4",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 55542,
+      "lastUpdated": "2026-05-07T07:00:29Z",
+      "repoUrl": "https://github.com/JuliusBrussee/caveman",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "tirth8205-code-review-graph",
+      "name": "code-review-graph",
+      "owner": "tirth8205",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/68604113?u=c33332b6b3a71443dfa7d76a792a999997137c9a&v=4",
+      "description": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 15616,
+      "lastUpdated": "2026-05-07T06:57:46Z",
+      "repoUrl": "https://github.com/tirth8205/code-review-graph",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "m97chahboun-taskmaster",
+      "name": "TaskMaster",
+      "owner": "M97Chahboun",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/69054810?u=1604262ad7e40d79b2f520fe13a690a14c9718ab&v=4",
+      "description": "",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "TypeScript",
+      "techStack": [
+        "TypeScript"
+      ],
+      "stars": 3,
+      "lastUpdated": "2026-04-23T01:53:24Z",
+      "repoUrl": "https://github.com/M97Chahboun/TaskMaster",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "santifer-cv-santiago",
+      "name": "cv-santiago",
+      "owner": "santifer",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/256850418?u=1abde924a2eb593c30ef8122a1efcf4e5622f727&v=4",
+      "description": "Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my experience.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "HTML",
+      "techStack": [
+        "HTML"
+      ],
+      "stars": 545,
+      "lastUpdated": "2026-05-07T06:10:58Z",
+      "repoUrl": "https://github.com/santifer/cv-santiago",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "multica-ai-multica",
+      "name": "multica",
+      "owner": "multica-ai",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/254743058?v=4",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "TypeScript",
+      "techStack": [
+        "TypeScript"
+      ],
+      "stars": 25523,
+      "lastUpdated": "2026-05-07T07:01:44Z",
+      "repoUrl": "https://github.com/multica-ai/multica",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "xming521-weclone",
+      "name": "WeClone",
+      "owner": "xming521",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/32786500?u=4ec506ea8415ab2fc50161ad1f1cf90233f6d917&v=4",
+      "description": "🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  ",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 17813,
+      "lastUpdated": "2026-05-07T06:48:00Z",
+      "repoUrl": "https://github.com/xming521/WeClone",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "google-research-timesfm",
+      "name": "timesfm",
+      "owner": "google-research",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/43830688?v=4",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 19481,
+      "lastUpdated": "2026-05-07T06:48:08Z",
+      "repoUrl": "https://github.com/google-research/timesfm",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "sudoskys-telegramify-markdown",
+      "name": "telegramify-markdown",
+      "owner": "sudoskys",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/75739606?u=db377d39fb92afac16a054744232fc60d1d4d9fa&v=4",
+      "description": "🪄  Markdown To Telegram MarkdownV2 Converter Python| No more worrying about formatting.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 350,
+      "lastUpdated": "2026-05-06T02:09:38Z",
+      "repoUrl": "https://github.com/sudoskys/telegramify-markdown",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "mannaandpoem-openmanus",
+      "name": "OpenManus",
+      "owner": "mannaandpoem",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/52203545?u=e5e436f79fced21c44c16cc82e4f851c6f9d582d&v=4",
+      "description": "",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Unknown",
+      "techStack": [
+        "Unknown"
+      ],
+      "stars": 449,
+      "lastUpdated": "2026-05-07T02:26:16Z",
+      "repoUrl": "https://github.com/mannaandpoem/OpenManus",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "foundationagents-metagpt",
+      "name": "MetaGPT",
+      "owner": "FoundationAgents",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/198047230?v=4",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 67746,
+      "lastUpdated": "2026-05-07T06:50:52Z",
+      "repoUrl": "https://github.com/FoundationAgents/MetaGPT",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "utkucgln-repograph",
+      "name": "RepoGraph",
+      "owner": "utkucgln",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/42575971?u=749c1141886644f862235103e2676404f023a663&v=4",
+      "description": "",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 7,
+      "lastUpdated": "2026-04-14T05:29:03Z",
+      "repoUrl": "https://github.com/utkucgln/RepoGraph",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "bmad-code-org-bmad-method",
+      "name": "BMAD-METHOD",
+      "owner": "bmad-code-org",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/224091849?v=4",
+      "description": "Breakthrough Method for Agile Ai Driven Development",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "JavaScript",
+      "techStack": [
+        "JavaScript"
+      ],
+      "stars": 46525,
+      "lastUpdated": "2026-05-07T07:01:51Z",
+      "repoUrl": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "nousresearch-hermes-agent",
+      "name": "hermes-agent",
+      "owner": "NousResearch",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "description": "The agent that grows with you",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 136448,
+      "lastUpdated": "2026-05-07T07:00:31Z",
+      "repoUrl": "https://github.com/NousResearch/hermes-agent",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "fengyuanchen-compressorjs",
+      "name": "compressorjs",
+      "owner": "fengyuanchen",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/3456749?v=4",
+      "description": "JavaScript image compressor.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "JavaScript",
+      "techStack": [
+        "JavaScript"
+      ],
+      "stars": 5740,
+      "lastUpdated": "2026-05-07T03:48:20Z",
+      "repoUrl": "https://github.com/fengyuanchen/compressorjs",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "lovell-sharp",
+      "name": "sharp",
+      "owner": "lovell",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/210965?u=64c063da7bd5a864725d60a20cebf688886824a0&v=4",
+      "description": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "JavaScript",
+      "techStack": [
+        "JavaScript"
+      ],
+      "stars": 32197,
+      "lastUpdated": "2026-05-07T06:33:51Z",
+      "repoUrl": "https://github.com/lovell/sharp",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "thedotmack-claude-mem",
+      "name": "claude-mem",
+      "owner": "thedotmack",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/683968?u=7163be2e8345b6a03cf8bd9bcc55025e73e4601b&v=4",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "TypeScript",
+      "techStack": [
+        "TypeScript"
+      ],
+      "stars": 73071,
+      "lastUpdated": "2026-05-07T06:56:37Z",
+      "repoUrl": "https://github.com/thedotmack/claude-mem",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "facebookresearch-tribev2",
+      "name": "tribev2",
+      "owner": "facebookresearch",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/16943930?v=4",
+      "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Jupyter Notebook",
+      "techStack": [
+        "Jupyter Notebook"
+      ],
+      "stars": 2452,
+      "lastUpdated": "2026-05-07T04:48:38Z",
+      "repoUrl": "https://github.com/facebookresearch/tribev2",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "mempalace-mempalace",
+      "name": "mempalace",
+      "owner": "MemPalace",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/275135684?v=4",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 51381,
+      "lastUpdated": "2026-05-07T07:00:54Z",
+      "repoUrl": "https://github.com/MemPalace/mempalace",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "siddharthvaddem-openscreen",
+      "name": "openscreen",
+      "owner": "siddharthvaddem",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/70214527?u=a06eea26c28cff461c12d68bce65cf177da5c257&v=4",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. ",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "TypeScript",
+      "techStack": [
+        "TypeScript"
+      ],
+      "stars": 34985,
+      "lastUpdated": "2026-05-07T06:54:25Z",
+      "repoUrl": "https://github.com/siddharthvaddem/openscreen",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "landing-ai-ade-python",
+      "name": "ade-python",
+      "owner": "landing-ai",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/34525670?v=4",
+      "description": "Python library for Agentic Document Extraction (ADE).",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 945,
+      "lastUpdated": "2026-05-06T19:45:16Z",
+      "repoUrl": "https://github.com/landing-ai/ade-python",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "rtk-ai-rtk",
+      "name": "rtk",
+      "owner": "rtk-ai",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/258253854?v=4",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Rust",
+      "techStack": [
+        "Rust"
+      ],
+      "stars": 43249,
+      "lastUpdated": "2026-05-07T07:01:41Z",
+      "repoUrl": "https://github.com/rtk-ai/rtk",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "simonhaenisch-md-to-pdf",
+      "name": "md-to-pdf",
+      "owner": "simonhaenisch",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/3410759?u=4e0a50499d8cf18b87a4f2f1b51a59db1958244d&v=4",
+      "description": "Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "TypeScript",
+      "techStack": [
+        "TypeScript"
+      ],
+      "stars": 1789,
+      "lastUpdated": "2026-05-06T01:57:45Z",
+      "repoUrl": "https://github.com/simonhaenisch/md-to-pdf",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "github-github-copilot-dev-days",
+      "name": "GitHub-Copilot-Dev-Days",
+      "owner": "github",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/9919?v=4",
+      "description": "Repo for GitHub Copilot Dev Days content, global in-person series of events focused on GitHub Copilot.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Unknown",
+      "techStack": [
+        "Unknown"
+      ],
+      "stars": 263,
+      "lastUpdated": "2026-05-06T00:33:18Z",
+      "repoUrl": "https://github.com/github/GitHub-Copilot-Dev-Days",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "microsoft-vibevoice",
+      "name": "VibeVoice",
+      "owner": "microsoft",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+      "description": "Open-Source Frontier Voice AI",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 46723,
+      "lastUpdated": "2026-05-07T07:01:00Z",
+      "repoUrl": "https://github.com/microsoft/VibeVoice",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "santifer-career-ops",
+      "name": "career-ops",
+      "owner": "santifer",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/256850418?u=1abde924a2eb593c30ef8122a1efcf4e5622f727&v=4",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "JavaScript",
+      "techStack": [
+        "JavaScript"
+      ],
+      "stars": 43177,
+      "lastUpdated": "2026-05-07T06:59:04Z",
+      "repoUrl": "https://github.com/santifer/career-ops",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "moabukar-miniblue",
+      "name": "miniblue",
+      "owner": "moabukar",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/76791648?u=17e167752ce6777081687ca2cf41a6fd4ba29507&v=4",
+      "description": "Local Azure development. One binary. No account needed. 25+ emulated services for testing, CI and local dev.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Go",
+      "techStack": [
+        "Go"
+      ],
+      "stars": 384,
+      "lastUpdated": "2026-05-06T20:56:31Z",
+      "repoUrl": "https://github.com/moabukar/miniblue",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "xdevplatform-xmcp",
+      "name": "xmcp",
+      "owner": "xdevplatform",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/7451118?v=4",
+      "description": "MCP server for the X API",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 761,
+      "lastUpdated": "2026-05-06T03:00:04Z",
+      "repoUrl": "https://github.com/xdevplatform/xmcp",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "voltagent-awesome-design-md",
+      "name": "awesome-design-md",
+      "owner": "VoltAgent",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/201282378?v=4",
+      "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Unknown",
+      "techStack": [
+        "Unknown"
+      ],
+      "stars": 72322,
+      "lastUpdated": "2026-05-07T07:01:22Z",
+      "repoUrl": "https://github.com/VoltAgent/awesome-design-md",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "azure-well-architected-reliability-assessment",
+      "name": "Well-Architected-Reliability-Assessment",
+      "owner": "Azure",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/6844498?v=4",
+      "description": "",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "PowerShell",
+      "techStack": [
+        "PowerShell"
+      ],
+      "stars": 46,
+      "lastUpdated": "2026-05-05T16:10:50Z",
+      "repoUrl": "https://github.com/Azure/Well-Architected-Reliability-Assessment",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    }
+  ]
+}
