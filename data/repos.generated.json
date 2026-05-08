@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T18:36:21.037Z",
+  "generatedAt": "2026-05-08T00:38:52.126Z",
   "source": {
     "starredListUrl": "https://github.com/3tallah?tab=stars",
     "repoCount": 50
@@ -47,8 +47,8 @@
       "techStack": [
         "PowerShell"
       ],
-      "stars": 29,
-      "lastUpdated": "2026-05-07T15:47:40Z",
+      "stars": 30,
+      "lastUpdated": "2026-05-07T20:06:37Z",
       "repoUrl": "https://github.com/KnudsenMorten/SecurityInsight",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -128,8 +128,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 1267,
-      "lastUpdated": "2026-05-07T18:09:48Z",
+      "stars": 1268,
+      "lastUpdated": "2026-05-07T23:55:35Z",
       "repoUrl": "https://github.com/Agents365-ai/drawio-skill",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -155,8 +155,8 @@
       "techStack": [
         "Shell"
       ],
-      "stars": 1518,
-      "lastUpdated": "2026-05-07T15:26:29Z",
+      "stars": 1522,
+      "lastUpdated": "2026-05-07T23:48:55Z",
       "repoUrl": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -182,8 +182,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 1738,
-      "lastUpdated": "2026-05-07T18:24:33Z",
+      "stars": 1740,
+      "lastUpdated": "2026-05-08T00:15:40Z",
       "repoUrl": "https://github.com/softaworks/agent-toolkit",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -209,8 +209,8 @@
       "techStack": [
         "Unknown"
       ],
-      "stars": 1807,
-      "lastUpdated": "2026-05-07T16:55:13Z",
+      "stars": 1808,
+      "lastUpdated": "2026-05-07T22:43:10Z",
       "repoUrl": "https://github.com/antonbabenko/terraform-skill",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -236,8 +236,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 1867,
-      "lastUpdated": "2026-05-07T18:03:00Z",
+      "stars": 1882,
+      "lastUpdated": "2026-05-08T00:15:19Z",
       "repoUrl": "https://github.com/kevinluosl/deepbot",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -263,8 +263,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 1935,
-      "lastUpdated": "2026-05-07T17:53:41Z",
+      "stars": 1936,
+      "lastUpdated": "2026-05-07T23:57:10Z",
       "repoUrl": "https://github.com/cisco-ai-defense/skill-scanner",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -290,8 +290,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 2017,
-      "lastUpdated": "2026-05-07T17:35:44Z",
+      "stars": 2018,
+      "lastUpdated": "2026-05-07T20:59:46Z",
       "repoUrl": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -317,8 +317,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 2251,
-      "lastUpdated": "2026-05-07T17:43:42Z",
+      "stars": 2252,
+      "lastUpdated": "2026-05-07T20:14:51Z",
       "repoUrl": "https://github.com/microsoft/skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -344,8 +344,8 @@
       "techStack": [
         "Jupyter Notebook"
       ],
-      "stars": 2551,
-      "lastUpdated": "2026-05-07T17:17:54Z",
+      "stars": 2552,
+      "lastUpdated": "2026-05-08T00:16:13Z",
       "repoUrl": "https://github.com/Marktechpost/AI-Agents-Projects-Tutorials",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -425,8 +425,8 @@
       "techStack": [
         "Unknown"
       ],
-      "stars": 10989,
-      "lastUpdated": "2026-05-07T18:01:49Z",
+      "stars": 10991,
+      "lastUpdated": "2026-05-07T23:54:38Z",
       "repoUrl": "https://github.com/phuryn/pm-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -479,8 +479,8 @@
       "techStack": [
         "C++"
       ],
-      "stars": 158,
-      "lastUpdated": "2026-05-07T14:09:21Z",
+      "stars": 159,
+      "lastUpdated": "2026-05-07T20:24:18Z",
       "repoUrl": "https://github.com/thedrmaker/DrPasswords",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -506,8 +506,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 4044,
-      "lastUpdated": "2026-05-07T12:19:09Z",
+      "stars": 4045,
+      "lastUpdated": "2026-05-07T22:09:53Z",
       "repoUrl": "https://github.com/joeyism/linkedin_scraper",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -560,8 +560,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 1794,
-      "lastUpdated": "2026-05-07T18:18:30Z",
+      "stars": 1800,
+      "lastUpdated": "2026-05-07T22:56:19Z",
       "repoUrl": "https://github.com/stickerdaniel/linkedin-mcp-server",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -587,8 +587,8 @@
       "techStack": [
         "Shell"
       ],
-      "stars": 64567,
-      "lastUpdated": "2026-05-07T18:36:08Z",
+      "stars": 64853,
+      "lastUpdated": "2026-05-08T00:37:40Z",
       "repoUrl": "https://github.com/mattpocock/skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -614,8 +614,8 @@
       "techStack": [
         "C#"
       ],
-      "stars": 26894,
-      "lastUpdated": "2026-05-07T10:17:37Z",
+      "stars": 26895,
+      "lastUpdated": "2026-05-07T20:35:30Z",
       "repoUrl": "https://github.com/NickeManarin/ScreenToGif",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -641,8 +641,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 55958,
-      "lastUpdated": "2026-05-07T18:35:13Z",
+      "stars": 56093,
+      "lastUpdated": "2026-05-08T00:35:47Z",
       "repoUrl": "https://github.com/JuliusBrussee/caveman",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -668,8 +668,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 15699,
-      "lastUpdated": "2026-05-07T18:25:21Z",
+      "stars": 15718,
+      "lastUpdated": "2026-05-08T00:04:43Z",
       "repoUrl": "https://github.com/tirth8205/code-review-graph",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -722,8 +722,8 @@
       "techStack": [
         "HTML"
       ],
-      "stars": 546,
-      "lastUpdated": "2026-05-07T12:32:14Z",
+      "stars": 548,
+      "lastUpdated": "2026-05-07T20:56:22Z",
       "repoUrl": "https://github.com/santifer/cv-santiago",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -749,8 +749,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 25779,
-      "lastUpdated": "2026-05-07T18:27:32Z",
+      "stars": 25849,
+      "lastUpdated": "2026-05-08T00:38:04Z",
       "repoUrl": "https://github.com/multica-ai/multica",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -776,8 +776,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 17820,
-      "lastUpdated": "2026-05-07T18:04:38Z",
+      "stars": 17825,
+      "lastUpdated": "2026-05-07T23:42:30Z",
       "repoUrl": "https://github.com/xming521/WeClone",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -803,8 +803,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 19508,
-      "lastUpdated": "2026-05-07T17:29:00Z",
+      "stars": 19513,
+      "lastUpdated": "2026-05-08T00:22:18Z",
       "repoUrl": "https://github.com/google-research/timesfm",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -857,8 +857,8 @@
       "techStack": [
         "Unknown"
       ],
-      "stars": 450,
-      "lastUpdated": "2026-05-07T15:54:14Z",
+      "stars": 451,
+      "lastUpdated": "2026-05-07T22:33:57Z",
       "repoUrl": "https://github.com/mannaandpoem/OpenManus",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -884,8 +884,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 67759,
-      "lastUpdated": "2026-05-07T18:08:36Z",
+      "stars": 67762,
+      "lastUpdated": "2026-05-08T00:33:15Z",
       "repoUrl": "https://github.com/FoundationAgents/MetaGPT",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -938,8 +938,8 @@
       "techStack": [
         "JavaScript"
       ],
-      "stars": 46596,
-      "lastUpdated": "2026-05-07T18:34:36Z",
+      "stars": 46609,
+      "lastUpdated": "2026-05-08T00:25:32Z",
       "repoUrl": "https://github.com/bmad-code-org/BMAD-METHOD",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -965,8 +965,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 137297,
-      "lastUpdated": "2026-05-07T18:35:51Z",
+      "stars": 137551,
+      "lastUpdated": "2026-05-08T00:35:59Z",
       "repoUrl": "https://github.com/NousResearch/hermes-agent",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1019,8 +1019,8 @@
       "techStack": [
         "JavaScript"
       ],
-      "stars": 32198,
-      "lastUpdated": "2026-05-07T09:14:09Z",
+      "stars": 32197,
+      "lastUpdated": "2026-05-07T20:58:05Z",
       "repoUrl": "https://github.com/lovell/sharp",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1046,8 +1046,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 73290,
-      "lastUpdated": "2026-05-07T18:35:25Z",
+      "stars": 73366,
+      "lastUpdated": "2026-05-08T00:32:59Z",
       "repoUrl": "https://github.com/thedotmack/claude-mem",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1073,8 +1073,8 @@
       "techStack": [
         "Jupyter Notebook"
       ],
-      "stars": 2462,
-      "lastUpdated": "2026-05-07T18:04:17Z",
+      "stars": 2464,
+      "lastUpdated": "2026-05-08T00:35:53Z",
       "repoUrl": "https://github.com/facebookresearch/tribev2",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1100,8 +1100,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 51445,
-      "lastUpdated": "2026-05-07T18:14:49Z",
+      "stars": 51466,
+      "lastUpdated": "2026-05-08T00:19:54Z",
       "repoUrl": "https://github.com/MemPalace/mempalace",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1127,8 +1127,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 35049,
-      "lastUpdated": "2026-05-07T18:20:55Z",
+      "stars": 35063,
+      "lastUpdated": "2026-05-07T23:43:18Z",
       "repoUrl": "https://github.com/siddharthvaddem/openscreen",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1154,8 +1154,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 945,
-      "lastUpdated": "2026-05-06T19:45:16Z",
+      "stars": 946,
+      "lastUpdated": "2026-05-07T22:25:32Z",
       "repoUrl": "https://github.com/landing-ai/ade-python",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1181,8 +1181,8 @@
       "techStack": [
         "Rust"
       ],
-      "stars": 43756,
-      "lastUpdated": "2026-05-07T18:33:01Z",
+      "stars": 43993,
+      "lastUpdated": "2026-05-08T00:38:14Z",
       "repoUrl": "https://github.com/rtk-ai/rtk",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1262,8 +1262,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 46762,
-      "lastUpdated": "2026-05-07T18:06:45Z",
+      "stars": 46767,
+      "lastUpdated": "2026-05-07T23:49:23Z",
       "repoUrl": "https://github.com/microsoft/VibeVoice",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1289,8 +1289,8 @@
       "techStack": [
         "JavaScript"
       ],
-      "stars": 43322,
-      "lastUpdated": "2026-05-07T18:29:50Z",
+      "stars": 43361,
+      "lastUpdated": "2026-05-08T00:21:26Z",
       "repoUrl": "https://github.com/santifer/career-ops",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1343,8 +1343,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 762,
-      "lastUpdated": "2026-05-07T16:36:12Z",
+      "stars": 764,
+      "lastUpdated": "2026-05-07T20:33:47Z",
       "repoUrl": "https://github.com/xdevplatform/xmcp",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1370,8 +1370,8 @@
       "techStack": [
         "Unknown"
       ],
-      "stars": 72668,
-      "lastUpdated": "2026-05-07T18:35:00Z",
+      "stars": 72799,
+      "lastUpdated": "2026-05-08T00:36:53Z",
       "repoUrl": "https://github.com/VoltAgent/awesome-design-md",
       "difficulty": "Intermediate",
       "featuredIn": [],
