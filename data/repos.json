@@ -2,7 +2,7 @@
   "generatedAt": "2026-05-07T00:00:00.000Z",
   "source": {
     "starredListUrl": "https://github.com/stars/3tallah/lists/ai-projects",
-    "repoCount": 12
+    "repoCount": 13
   },
   "collections": [
     {
@@ -18,7 +18,12 @@
     {
       "title": "Skills and Prompt Packs",
       "description": "Reusable agent skills, prompts, and workflow accelerators.",
-      "repoIds": ["microsoft-skills", "softaworks-agent-toolkit", "aaron-he-zhu-seo-geo-claude-skills"]
+      "repoIds": [
+        "microsoft-skills",
+        "softaworks-agent-toolkit",
+        "aaron-he-zhu-seo-geo-claude-skills",
+        "xquik-dev-hermes-tweet"
+      ]
     }
   ],
   "repositories": [
@@ -196,6 +201,31 @@
       },
       "hasAzure": false,
       "frameworks": ["Prompt Engineering", "Skills"]
+    },
+    {
+      "id": "xquik-dev-hermes-tweet",
+      "name": "hermes-tweet",
+      "owner": "Xquik-dev",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/263527900?v=4",
+      "description": "Native Hermes Agent plugin for X/Twitter automation through Xquik",
+      "aiSummary": "A focused Hermes Agent plugin that packages X/Twitter research, timeline reads, and approval-gated posting into a reusable agent skill workflow.",
+      "category": "Skills",
+      "tags": ["Hermes Agent", "X/Twitter", "Social Media", "Automation"],
+      "language": "Python",
+      "techStack": ["Python", "Hermes Agent", "Agent Skills"],
+      "stars": 11,
+      "lastUpdated": "2026-06-22T04:51:59Z",
+      "repoUrl": "https://github.com/Xquik-dev/hermes-tweet",
+      "difficulty": "Intermediate",
+      "featuredIn": ["Skills and Prompt Packs"],
+      "scores": {
+        "overall": 82,
+        "learningValue": 84,
+        "productionReadiness": 83,
+        "innovation": 78
+      },
+      "hasAzure": false,
+      "frameworks": ["Hermes Agent", "Skills"]
     },
     {
       "id": "antonbabenko-terraform-skill",
