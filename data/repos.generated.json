@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:34:10.458Z",
+  "generatedAt": "2026-07-21T18:29:31.137Z",
   "source": {
     "starredListUrl": "https://github.com/3tallah?tab=stars",
     "repoCount": 50
@@ -75,7 +75,7 @@
         "Java"
       ],
       "stars": 4208,
-      "lastUpdated": "2026-07-21T11:57:34Z",
+      "lastUpdated": "2026-07-21T16:57:34Z",
       "repoUrl": "https://github.com/camunda/camunda",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -101,8 +101,8 @@
       "techStack": [
         "Go"
       ],
-      "stars": 21777,
-      "lastUpdated": "2026-07-21T12:23:49Z",
+      "stars": 21782,
+      "lastUpdated": "2026-07-21T16:59:04Z",
       "repoUrl": "https://github.com/temporalio/temporal",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -128,8 +128,8 @@
       "techStack": [
         "Java"
       ],
-      "stars": 32026,
-      "lastUpdated": "2026-07-21T11:32:35Z",
+      "stars": 32028,
+      "lastUpdated": "2026-07-21T18:14:21Z",
       "repoUrl": "https://github.com/conductor-oss/conductor",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -182,8 +182,8 @@
       "techStack": [
         "JavaScript"
       ],
-      "stars": 8920,
-      "lastUpdated": "2026-07-21T12:25:42Z",
+      "stars": 8941,
+      "lastUpdated": "2026-07-21T18:26:47Z",
       "repoUrl": "https://github.com/cobusgreyling/loop-engineering",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -371,8 +371,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 53384,
-      "lastUpdated": "2026-07-21T12:29:45Z",
+      "stars": 53398,
+      "lastUpdated": "2026-07-21T18:19:14Z",
       "repoUrl": "https://github.com/twentyhq/twenty",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -398,8 +398,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 3390,
-      "lastUpdated": "2026-07-21T12:07:58Z",
+      "stars": 3392,
+      "lastUpdated": "2026-07-21T18:29:08Z",
       "repoUrl": "https://github.com/microsoft/AI-Engineering-Coach",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -425,8 +425,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 8838,
-      "lastUpdated": "2026-07-21T12:05:13Z",
+      "stars": 8839,
+      "lastUpdated": "2026-07-21T15:09:22Z",
       "repoUrl": "https://github.com/anthropics/claude-for-legal",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -452,8 +452,8 @@
       "techStack": [
         "JavaScript"
       ],
-      "stars": 40994,
-      "lastUpdated": "2026-07-21T12:31:25Z",
+      "stars": 41038,
+      "lastUpdated": "2026-07-21T18:22:26Z",
       "repoUrl": "https://github.com/coreyhaines31/marketingskills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -479,8 +479,8 @@
       "techStack": [
         "Shell"
       ],
-      "stars": 1906,
-      "lastUpdated": "2026-07-21T12:17:12Z",
+      "stars": 1910,
+      "lastUpdated": "2026-07-21T16:47:22Z",
       "repoUrl": "https://github.com/charlie947/social-media-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -507,7 +507,7 @@
         "Python"
       ],
       "stars": 1306,
-      "lastUpdated": "2026-07-21T04:24:26Z",
+      "lastUpdated": "2026-07-21T16:13:45Z",
       "repoUrl": "https://github.com/microsoft/azure-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -614,8 +614,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 28725,
-      "lastUpdated": "2026-07-21T12:31:58Z",
+      "stars": 28809,
+      "lastUpdated": "2026-07-21T18:24:27Z",
       "repoUrl": "https://github.com/HKUDS/DeepTutor",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -668,8 +668,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 22361,
-      "lastUpdated": "2026-07-21T11:56:38Z",
+      "stars": 22367,
+      "lastUpdated": "2026-07-21T16:38:43Z",
       "repoUrl": "https://github.com/czlonkowski/n8n-mcp",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -695,8 +695,8 @@
       "techStack": [
         "Unknown"
       ],
-      "stars": 25,
-      "lastUpdated": "2026-07-06T22:36:54Z",
+      "stars": 26,
+      "lastUpdated": "2026-07-21T13:31:37Z",
       "repoUrl": "https://github.com/Azure/Azure-Resource-Manager-MCP",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -722,8 +722,8 @@
       "techStack": [
         "JavaScript"
       ],
-      "stars": 2557,
-      "lastUpdated": "2026-07-21T02:53:23Z",
+      "stars": 2560,
+      "lastUpdated": "2026-07-21T16:53:05Z",
       "repoUrl": "https://github.com/huangserva/3DCellForge",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -803,8 +803,8 @@
       "techStack": [
         "Markdown"
       ],
-      "stars": 1873,
-      "lastUpdated": "2026-07-21T11:29:01Z",
+      "stars": 1874,
+      "lastUpdated": "2026-07-21T12:38:16Z",
       "repoUrl": "https://github.com/Owl-Listener/designer-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -830,8 +830,8 @@
       "techStack": [
         "HTML"
       ],
-      "stars": 73,
-      "lastUpdated": "2026-07-19T02:36:10Z",
+      "stars": 74,
+      "lastUpdated": "2026-07-21T17:10:36Z",
       "repoUrl": "https://github.com/Hi1talib1World/Premortem",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -884,8 +884,8 @@
       "techStack": [
         "Rust"
       ],
-      "stars": 1365,
-      "lastUpdated": "2026-07-21T05:46:40Z",
+      "stars": 1367,
+      "lastUpdated": "2026-07-21T18:27:45Z",
       "repoUrl": "https://github.com/silverstein/minutes",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -938,8 +938,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 6241,
-      "lastUpdated": "2026-07-21T12:30:14Z",
+      "stars": 6253,
+      "lastUpdated": "2026-07-21T16:43:33Z",
       "repoUrl": "https://github.com/Agents365-ai/drawio-skill",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -965,8 +965,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 2431,
-      "lastUpdated": "2026-07-21T09:54:08Z",
+      "stars": 2435,
+      "lastUpdated": "2026-07-21T17:18:35Z",
       "repoUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -992,8 +992,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 2217,
-      "lastUpdated": "2026-07-21T08:30:37Z",
+      "stars": 2220,
+      "lastUpdated": "2026-07-21T17:33:16Z",
       "repoUrl": "https://github.com/softaworks/agent-toolkit",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1073,8 +1073,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 2374,
-      "lastUpdated": "2026-07-21T11:32:50Z",
+      "stars": 2376,
+      "lastUpdated": "2026-07-21T17:15:00Z",
       "repoUrl": "https://github.com/cisco-ai-defense/skill-scanner",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1100,8 +1100,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 2417,
-      "lastUpdated": "2026-07-21T11:05:00Z",
+      "stars": 2418,
+      "lastUpdated": "2026-07-21T16:46:36Z",
       "repoUrl": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1127,8 +1127,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 2780,
-      "lastUpdated": "2026-07-21T02:13:33Z",
+      "stars": 2783,
+      "lastUpdated": "2026-07-21T17:47:16Z",
       "repoUrl": "https://github.com/microsoft/skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1154,8 +1154,8 @@
       "techStack": [
         "Jupyter Notebook"
       ],
-      "stars": 2809,
-      "lastUpdated": "2026-07-21T12:33:53Z",
+      "stars": 2811,
+      "lastUpdated": "2026-07-21T16:20:49Z",
       "repoUrl": "https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1181,8 +1181,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 6133,
-      "lastUpdated": "2026-07-21T08:18:15Z",
+      "stars": 6135,
+      "lastUpdated": "2026-07-21T17:04:11Z",
       "repoUrl": "https://github.com/ThinkInAIXYZ/deepchat",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1208,8 +1208,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 6093,
-      "lastUpdated": "2026-07-21T08:27:45Z",
+      "stars": 6094,
+      "lastUpdated": "2026-07-21T14:27:49Z",
       "repoUrl": "https://github.com/ikaijua/Awesome-AITools",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1235,8 +1235,8 @@
       "techStack": [
         "Unknown"
       ],
-      "stars": 24156,
-      "lastUpdated": "2026-07-21T11:29:05Z",
+      "stars": 24161,
+      "lastUpdated": "2026-07-21T17:18:40Z",
       "repoUrl": "https://github.com/phuryn/pm-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1316,8 +1316,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 4340,
-      "lastUpdated": "2026-07-21T11:53:56Z",
+      "stars": 4342,
+      "lastUpdated": "2026-07-21T15:09:08Z",
       "repoUrl": "https://github.com/joeyism/linkedin_scraper",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1343,8 +1343,8 @@
       "techStack": [
         "JavaScript"
       ],
-      "stars": 2066,
-      "lastUpdated": "2026-07-21T11:51:03Z",
+      "stars": 2067,
+      "lastUpdated": "2026-07-21T15:37:05Z",
       "repoUrl": "https://github.com/cporter202/social-media-scraping-apis",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1370,8 +1370,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 2840,
-      "lastUpdated": "2026-07-21T12:12:27Z",
+      "stars": 2846,
+      "lastUpdated": "2026-07-21T18:21:22Z",
       "repoUrl": "https://github.com/stickerdaniel/linkedin-mcp-server",
       "difficulty": "Intermediate",
       "featuredIn": [],
