@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T06:16:31.674Z",
+  "generatedAt": "2026-08-09T12:09:26.886Z",
   "source": {
     "starredListUrl": "https://github.com/3tallah?tab=stars",
     "repoCount": 50
@@ -34,6 +34,87 @@
     }
   ],
   "repositories": [
+    {
+      "id": "yigitkonur-cli-continues",
+      "name": "cli-continues",
+      "owner": "yigitkonur",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/9989650?u=1f45f93527e1c266fd13a8bfed90d4193d0e4c44&v=4",
+      "description": "resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "TypeScript",
+      "techStack": [
+        "TypeScript"
+      ],
+      "stars": 1426,
+      "lastUpdated": "2026-08-09T09:28:50Z",
+      "repoUrl": "https://github.com/yigitkonur/cli-continues",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "ashutos1997-claude-design-auditor-skill",
+      "name": "claude-design-auditor-skill",
+      "owner": "Ashutos1997",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/1792219?u=fce860f266a6b75cf0057ed77e3d231fec4f0eb8&v=4",
+      "description": "A Claude skill that audits designs against 19 professional design rules.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Unknown",
+      "techStack": [
+        "Unknown"
+      ],
+      "stars": 72,
+      "lastUpdated": "2026-08-09T07:03:09Z",
+      "repoUrl": "https://github.com/Ashutos1997/claude-design-auditor-skill",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "obra-superpowers",
+      "name": "superpowers",
+      "owner": "obra",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/45416?u=37d9e6e1ec50898b8c0b4005613538db1f7a4167&v=4",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Shell",
+      "techStack": [
+        "Shell"
+      ],
+      "stars": 269529,
+      "lastUpdated": "2026-08-09T12:05:53Z",
+      "repoUrl": "https://github.com/obra/superpowers",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
     {
       "id": "ahmed-ali-159-fact-checker-agent",
       "name": "fact-checker-agent",
@@ -75,7 +156,7 @@
         "Java"
       ],
       "stars": 4238,
-      "lastUpdated": "2026-08-09T06:01:01Z",
+      "lastUpdated": "2026-08-09T09:44:42Z",
       "repoUrl": "https://github.com/camunda/camunda",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -101,8 +182,8 @@
       "techStack": [
         "Go"
       ],
-      "stars": 22187,
-      "lastUpdated": "2026-08-09T04:54:38Z",
+      "stars": 22190,
+      "lastUpdated": "2026-08-09T10:24:38Z",
       "repoUrl": "https://github.com/temporalio/temporal",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -128,8 +209,8 @@
       "techStack": [
         "Java"
       ],
-      "stars": 32066,
-      "lastUpdated": "2026-08-09T05:55:05Z",
+      "stars": 32067,
+      "lastUpdated": "2026-08-09T12:07:18Z",
       "repoUrl": "https://github.com/conductor-oss/conductor",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -182,8 +263,8 @@
       "techStack": [
         "JavaScript"
       ],
-      "stars": 10006,
-      "lastUpdated": "2026-08-09T05:53:12Z",
+      "stars": 10026,
+      "lastUpdated": "2026-08-09T12:04:06Z",
       "repoUrl": "https://github.com/cobusgreyling/loop-engineering",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -371,8 +452,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 54533,
-      "lastUpdated": "2026-08-09T05:58:38Z",
+      "stars": 54547,
+      "lastUpdated": "2026-08-09T11:50:52Z",
       "repoUrl": "https://github.com/twentyhq/twenty",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -398,8 +479,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 3470,
-      "lastUpdated": "2026-08-08T08:29:03Z",
+      "stars": 3473,
+      "lastUpdated": "2026-08-09T08:19:39Z",
       "repoUrl": "https://github.com/microsoft/AI-Engineering-Coach",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -425,8 +506,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 9063,
-      "lastUpdated": "2026-08-09T05:00:59Z",
+      "stars": 9064,
+      "lastUpdated": "2026-08-09T11:38:15Z",
       "repoUrl": "https://github.com/anthropics/claude-for-legal",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -452,8 +533,8 @@
       "techStack": [
         "JavaScript"
       ],
-      "stars": 43586,
-      "lastUpdated": "2026-08-09T06:12:29Z",
+      "stars": 43614,
+      "lastUpdated": "2026-08-09T12:02:09Z",
       "repoUrl": "https://github.com/coreyhaines31/marketingskills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -479,8 +560,8 @@
       "techStack": [
         "Shell"
       ],
-      "stars": 2146,
-      "lastUpdated": "2026-08-09T03:51:20Z",
+      "stars": 2148,
+      "lastUpdated": "2026-08-09T09:26:38Z",
       "repoUrl": "https://github.com/charlie947/social-media-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -533,8 +614,8 @@
       "techStack": [
         "Jupyter Notebook"
       ],
-      "stars": 250,
-      "lastUpdated": "2026-07-26T23:35:52Z",
+      "stars": 249,
+      "lastUpdated": "2026-08-09T10:20:12Z",
       "repoUrl": "https://github.com/microsoft/community-content",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -614,8 +695,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 33233,
-      "lastUpdated": "2026-08-09T06:06:24Z",
+      "stars": 33289,
+      "lastUpdated": "2026-08-09T12:05:06Z",
       "repoUrl": "https://github.com/HKUDS/DeepTutor",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -669,7 +750,7 @@
         "TypeScript"
       ],
       "stars": 22645,
-      "lastUpdated": "2026-08-09T04:08:38Z",
+      "lastUpdated": "2026-08-09T10:49:43Z",
       "repoUrl": "https://github.com/czlonkowski/n8n-mcp",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -776,8 +857,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 4109,
-      "lastUpdated": "2026-08-08T02:18:04Z",
+      "stars": 4110,
+      "lastUpdated": "2026-08-09T12:05:07Z",
       "repoUrl": "https://github.com/abhi1693/openclaw-mission-control",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -803,8 +884,8 @@
       "techStack": [
         "Markdown"
       ],
-      "stars": 1997,
-      "lastUpdated": "2026-08-09T03:49:35Z",
+      "stars": 2000,
+      "lastUpdated": "2026-08-09T11:57:16Z",
       "repoUrl": "https://github.com/Owl-Listener/designer-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -884,8 +965,8 @@
       "techStack": [
         "Rust"
       ],
-      "stars": 1414,
-      "lastUpdated": "2026-08-08T16:04:49Z",
+      "stars": 1415,
+      "lastUpdated": "2026-08-09T11:16:41Z",
       "repoUrl": "https://github.com/silverstein/minutes",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -938,8 +1019,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 7331,
-      "lastUpdated": "2026-08-09T05:29:22Z",
+      "stars": 7346,
+      "lastUpdated": "2026-08-09T12:00:49Z",
       "repoUrl": "https://github.com/Agents365-ai/drawio-skill",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -965,8 +1046,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 2533,
-      "lastUpdated": "2026-08-09T01:16:41Z",
+      "stars": 2537,
+      "lastUpdated": "2026-08-09T10:01:13Z",
       "repoUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -992,8 +1073,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 2294,
-      "lastUpdated": "2026-08-08T13:02:52Z",
+      "stars": 2295,
+      "lastUpdated": "2026-08-09T10:01:21Z",
       "repoUrl": "https://github.com/softaworks/agent-toolkit",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1073,8 +1154,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 2409,
-      "lastUpdated": "2026-08-08T06:18:13Z",
+      "stars": 2410,
+      "lastUpdated": "2026-08-09T11:51:25Z",
       "repoUrl": "https://github.com/cisco-ai-defense/skill-scanner",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1100,8 +1181,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 2649,
-      "lastUpdated": "2026-08-09T03:30:09Z",
+      "stars": 2650,
+      "lastUpdated": "2026-08-09T12:06:36Z",
       "repoUrl": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1155,7 +1236,7 @@
         "Jupyter Notebook"
       ],
       "stars": 2862,
-      "lastUpdated": "2026-08-08T20:20:10Z",
+      "lastUpdated": "2026-08-09T11:17:19Z",
       "repoUrl": "https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1182,7 +1263,7 @@
         "TypeScript"
       ],
       "stars": 6205,
-      "lastUpdated": "2026-08-09T03:56:54Z",
+      "lastUpdated": "2026-08-09T08:20:41Z",
       "repoUrl": "https://github.com/ThinkInAIXYZ/deepchat",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1209,7 +1290,7 @@
         "Python"
       ],
       "stars": 6126,
-      "lastUpdated": "2026-08-09T06:13:32Z",
+      "lastUpdated": "2026-08-09T12:03:40Z",
       "repoUrl": "https://github.com/ikaijua/Awesome-AITools",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1235,8 +1316,8 @@
       "techStack": [
         "Unknown"
       ],
-      "stars": 25002,
-      "lastUpdated": "2026-08-09T05:24:15Z",
+      "stars": 25009,
+      "lastUpdated": "2026-08-09T11:38:32Z",
       "repoUrl": "https://github.com/phuryn/pm-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1262,8 +1343,8 @@
       "techStack": [
         "Go"
       ],
-      "stars": 222,
-      "lastUpdated": "2026-08-07T03:22:14Z",
+      "stars": 223,
+      "lastUpdated": "2026-08-09T10:11:35Z",
       "repoUrl": "https://github.com/thatonecodes/examtopics-downloader",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1292,87 +1373,6 @@
       "stars": 233,
       "lastUpdated": "2026-08-08T13:32:41Z",
       "repoUrl": "https://github.com/drmakerr/DrPasswords",
-      "difficulty": "Intermediate",
-      "featuredIn": [],
-      "scores": {
-        "overall": 50,
-        "learningValue": 50,
-        "productionReadiness": 50,
-        "innovation": 50
-      },
-      "hasAzure": false,
-      "frameworks": []
-    },
-    {
-      "id": "joeyism-linkedin-scraper",
-      "name": "linkedin_scraper",
-      "owner": "joeyism",
-      "ownerAvatar": "https://avatars.githubusercontent.com/u/7503144?u=fc030f4c02c0a75617a72259f3b0f7d473aec04e&v=4",
-      "description": "A library that scrapes Linkedin for user data",
-      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
-      "category": "Automation",
-      "tags": [],
-      "language": "Python",
-      "techStack": [
-        "Python"
-      ],
-      "stars": 4398,
-      "lastUpdated": "2026-08-09T02:48:02Z",
-      "repoUrl": "https://github.com/joeyism/linkedin_scraper",
-      "difficulty": "Intermediate",
-      "featuredIn": [],
-      "scores": {
-        "overall": 50,
-        "learningValue": 50,
-        "productionReadiness": 50,
-        "innovation": 50
-      },
-      "hasAzure": false,
-      "frameworks": []
-    },
-    {
-      "id": "cporter202-social-media-scraping-apis",
-      "name": "social-media-scraping-apis",
-      "owner": "cporter202",
-      "ownerAvatar": "https://avatars.githubusercontent.com/u/163957687?u=5ce04617dd7efb28e5362d094b0fc6337757be09&v=4",
-      "description": "A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more. Extract posts, profiles, videos, comments, and engagement metrics.",
-      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
-      "category": "Automation",
-      "tags": [],
-      "language": "JavaScript",
-      "techStack": [
-        "JavaScript"
-      ],
-      "stars": 2104,
-      "lastUpdated": "2026-08-09T04:49:20Z",
-      "repoUrl": "https://github.com/cporter202/social-media-scraping-apis",
-      "difficulty": "Intermediate",
-      "featuredIn": [],
-      "scores": {
-        "overall": 50,
-        "learningValue": 50,
-        "productionReadiness": 50,
-        "innovation": 50
-      },
-      "hasAzure": false,
-      "frameworks": []
-    },
-    {
-      "id": "stickerdaniel-linkedin-mcp-server",
-      "name": "linkedin-mcp-server",
-      "owner": "stickerdaniel",
-      "ownerAvatar": "https://avatars.githubusercontent.com/u/63877413?u=2e7697d3e83360e057d55dab2eef43cbd7b0cc15&v=4",
-      "description": "Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.",
-      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
-      "category": "Automation",
-      "tags": [],
-      "language": "Python",
-      "techStack": [
-        "Python"
-      ],
-      "stars": 3061,
-      "lastUpdated": "2026-08-09T05:50:48Z",
-      "repoUrl": "https://github.com/stickerdaniel/linkedin-mcp-server",
       "difficulty": "Intermediate",
       "featuredIn": [],
       "scores": {
