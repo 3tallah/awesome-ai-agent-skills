@@ -20,7 +20,7 @@ I am sharing this collection so others can benefit from what is already working 
 
 ## Current Asset Inventory
 
-This repository is already more than a frontend shell. It now contains a real working catalog of reusable agent assets under [content](/c:/dev/Labs/awesome-ai-agent-skills/content).
+This repository is already more than a frontend shell. It now contains a real working catalog of reusable agent assets under [content](content).
 
 The sections below are the root inventory of what is currently published in this repo so visitors can understand the available capabilities without browsing the folders manually.
 
@@ -118,10 +118,10 @@ awesome-ai-agent-skills/
 
 The application now treats these grouped directories as a first-class content library under `content/`:
 
-- [content/agents](/c:/dev/Labs/awesome-ai-agent-skills/content/agents)
-- [content/prompts](/c:/dev/Labs/awesome-ai-agent-skills/content/prompts)
-- [content/instructions](/c:/dev/Labs/awesome-ai-agent-skills/content/instructions)
-- [content/skills](/c:/dev/Labs/awesome-ai-agent-skills/content/skills)
+- [content/agents](content/agents)
+- [content/prompts](content/prompts)
+- [content/instructions](content/instructions)
+- [content/skills](content/skills)
 
 They do not need to be moved under `app` or `public` to make the site work.
 
@@ -148,15 +148,15 @@ Naming consistency pass applied:
 
 There are two data layers in the project:
 
-1. [data/repos.json](/c:/dev/Labs/awesome-ai-agent-skills/data/repos.json)
+1. [data/repos.json](data/repos.json)
    This is the curated, hand-shaped showcase dataset currently used by the UI.
 
-2. [data/repos.generated.json](/c:/dev/Labs/awesome-ai-agent-skills/data/repos.generated.json)
+2. [data/repos.generated.json](data/repos.generated.json)
    This is the generated output from the GitHub GraphQL sync starter.
 
 The intended workflow is:
 
-1. Fetch repositories from GitHub using [scripts/github-sync.ts](/c:/dev/Labs/awesome-ai-agent-skills/scripts/github-sync.ts)
+1. Fetch repositories from GitHub using [scripts/github-sync.ts](scripts/github-sync.ts)
 2. Generate AI summaries, categories, tags, and scores
 3. Merge the enriched output into the curated data model
 4. Rebuild and deploy the site automatically
@@ -188,14 +188,14 @@ set GITHUB_LOGIN=3tallah
 npm run sync:github
 ```
 
-This writes a generated dataset to [data/repos.generated.json](/c:/dev/Labs/awesome-ai-agent-skills/data/repos.generated.json).
+This writes a generated dataset to [data/repos.generated.json](data/repos.generated.json).
 
 ## Deployment
 
 The repository includes:
 
-- [sync.yml](/c:/dev/Labs/awesome-ai-agent-skills/.github/workflows/sync.yml) for scheduled metadata refresh
-- [deploy.yml](/c:/dev/Labs/awesome-ai-agent-skills/.github/workflows/deploy.yml) for GitHub Pages publishing
+- [sync.yml](.github/workflows/sync.yml) for scheduled metadata refresh
+- [deploy.yml](.github/workflows/deploy.yml) for GitHub Pages publishing
 
 GitHub Pages is the default deployment target because it is free, simple, and works well for a repository-scoped static portal.
 
@@ -206,7 +206,7 @@ GitHub Pages is enabled and configured to deploy from GitHub Actions.
 Deployment pipeline:
 
 1. Changes are pushed to `main`.
-2. [deploy.yml](/c:/dev/Labs/awesome-ai-agent-skills/.github/workflows/deploy.yml) builds and exports the Next.js site.
+2. [deploy.yml](.github/workflows/deploy.yml) builds and exports the Next.js site.
 3. The generated static site is published via GitHub Pages.
 
 ## Custom Domain
@@ -243,10 +243,10 @@ Contributions are welcome for both the portal experience and the asset library.
 
 Primary contribution areas:
 
-- add or improve agents under [content/agents](/c:/dev/Labs/awesome-ai-agent-skills/content/agents)
-- add or improve prompts under [content/prompts](/c:/dev/Labs/awesome-ai-agent-skills/content/prompts)
-- add or improve instructions under [content/instructions](/c:/dev/Labs/awesome-ai-agent-skills/content/instructions)
-- add or improve skills under [content/skills](/c:/dev/Labs/awesome-ai-agent-skills/content/skills)
+- add or improve agents under [content/agents](content/agents)
+- add or improve prompts under [content/prompts](content/prompts)
+- add or improve instructions under [content/instructions](content/instructions)
+- add or improve skills under [content/skills](content/skills)
 - improve UI, filtering, and metadata enrichment in the Next.js app
 
 Contribution workflow:
@@ -279,3 +279,5 @@ General contribution guidance:
 This reboot is meant to evolve a personal starred list into a curated AI engineering discovery platform.
 
 Its real value is not only the frontend. Its real value comes from enrichment, categorization, scoring, and learning-oriented navigation that help people understand which repositories matter and why.
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
