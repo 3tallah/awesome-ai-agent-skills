@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T00:26:02.838Z",
+  "generatedAt": "2026-09-09T06:16:34.073Z",
   "source": {
     "starredListUrl": "https://github.com/3tallah?tab=stars",
     "repoCount": 50
@@ -35,6 +35,87 @@
   ],
   "repositories": [
     {
+      "id": "3tallah-avd",
+      "name": "AVD",
+      "owner": "3tallah",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/13816859?u=ef9979675743a52fa075c8a50e4b3471db4558c7&v=4",
+      "description": "Azure Virtual Desktop (AVD) – Scripts and automation deployment",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "PowerShell",
+      "techStack": [
+        "PowerShell"
+      ],
+      "stars": 1,
+      "lastUpdated": "2026-09-09T05:39:48Z",
+      "repoUrl": "https://github.com/3tallah/AVD",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "olafager-cloud-desktop-advisor",
+      "name": "cloud-desktop-advisor",
+      "owner": "olafager",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/16324420?u=05e0523a219e499cd769361661922288c61a1c25&v=4",
+      "description": "Microsoft Cloud PC decision advisor — Windows 365 vs AVD in 2 minutes. Plain language. Ready-to-send report included.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "HTML",
+      "techStack": [
+        "HTML"
+      ],
+      "stars": 1,
+      "lastUpdated": "2026-09-09T04:45:48Z",
+      "repoUrl": "https://github.com/olafager/cloud-desktop-advisor",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "shabeer1024-avd-fslogix-without-domain-controllers",
+      "name": "AVD-FSLogix-Without-Domain-Controllers",
+      "owner": "Shabeer1024",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/171084215?u=8a118eb2666aa45de3e5a2279e4eb82aa092634b&v=4",
+      "description": "Azure Virtual Desktop (AVD) with FSLogix using Microsoft Entra ID-only identities and Azure Files—no domain controllers required.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "HCL",
+      "techStack": [
+        "HCL"
+      ],
+      "stars": 1,
+      "lastUpdated": "2026-09-09T04:45:40Z",
+      "repoUrl": "https://github.com/Shabeer1024/AVD-FSLogix-Without-Domain-Controllers",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
       "id": "alishahryar1-free-claude-code",
       "name": "free-claude-code",
       "owner": "Alishahryar1",
@@ -47,8 +128,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 54040,
-      "lastUpdated": "2026-09-09T00:09:58Z",
+      "stars": 54081,
+      "lastUpdated": "2026-09-09T06:12:12Z",
       "repoUrl": "https://github.com/Alishahryar1/free-claude-code",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -74,8 +155,8 @@
       "techStack": [
         "CSS"
       ],
-      "stars": 28290,
-      "lastUpdated": "2026-09-08T23:17:17Z",
+      "stars": 28306,
+      "lastUpdated": "2026-09-09T06:05:56Z",
       "repoUrl": "https://github.com/Nutlope/hallmark",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -101,8 +182,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 17925,
-      "lastUpdated": "2026-09-09T00:12:23Z",
+      "stars": 17972,
+      "lastUpdated": "2026-09-09T06:13:10Z",
       "repoUrl": "https://github.com/every-app/open-seo",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -128,8 +209,8 @@
       "techStack": [
         "PowerShell"
       ],
-      "stars": 35114,
-      "lastUpdated": "2026-09-08T23:01:50Z",
+      "stars": 35162,
+      "lastUpdated": "2026-09-09T06:14:05Z",
       "repoUrl": "https://github.com/zhaoxuya520/reverse-skill",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -155,8 +236,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 62995,
-      "lastUpdated": "2026-09-09T00:24:29Z",
+      "stars": 63083,
+      "lastUpdated": "2026-09-09T06:16:18Z",
       "repoUrl": "https://github.com/diegosouzapw/OmniRoute",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -182,8 +263,8 @@
       "techStack": [
         "Unknown"
       ],
-      "stars": 130,
-      "lastUpdated": "2026-09-06T02:09:54Z",
+      "stars": 131,
+      "lastUpdated": "2026-09-09T05:41:03Z",
       "repoUrl": "https://github.com/SlideSpeak/presentation-design-prompts",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -209,8 +290,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 1498,
-      "lastUpdated": "2026-09-08T23:22:27Z",
+      "stars": 1499,
+      "lastUpdated": "2026-09-09T02:56:07Z",
       "repoUrl": "https://github.com/yigitkonur/cli-continues",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -263,8 +344,8 @@
       "techStack": [
         "Shell"
       ],
-      "stars": 283351,
-      "lastUpdated": "2026-09-09T00:17:18Z",
+      "stars": 283516,
+      "lastUpdated": "2026-09-09T06:15:22Z",
       "repoUrl": "https://github.com/obra/superpowers",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -318,7 +399,7 @@
         "Java"
       ],
       "stars": 4271,
-      "lastUpdated": "2026-09-08T22:04:47Z",
+      "lastUpdated": "2026-09-09T05:31:56Z",
       "repoUrl": "https://github.com/camunda/camunda",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -344,8 +425,8 @@
       "techStack": [
         "Go"
       ],
-      "stars": 22912,
-      "lastUpdated": "2026-09-08T23:35:10Z",
+      "stars": 22916,
+      "lastUpdated": "2026-09-09T05:38:26Z",
       "repoUrl": "https://github.com/temporalio/temporal",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -371,8 +452,8 @@
       "techStack": [
         "Java"
       ],
-      "stars": 32190,
-      "lastUpdated": "2026-09-08T20:11:10Z",
+      "stars": 32192,
+      "lastUpdated": "2026-09-09T06:12:06Z",
       "repoUrl": "https://github.com/conductor-oss/conductor",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -425,8 +506,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 11116,
-      "lastUpdated": "2026-09-08T23:08:00Z",
+      "stars": 11120,
+      "lastUpdated": "2026-09-09T06:10:15Z",
       "repoUrl": "https://github.com/cobusgreyling/loop-engineering",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -614,8 +695,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 56458,
-      "lastUpdated": "2026-09-08T23:26:43Z",
+      "stars": 56465,
+      "lastUpdated": "2026-09-09T05:28:15Z",
       "repoUrl": "https://github.com/twentyhq/twenty",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -641,8 +722,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 3760,
-      "lastUpdated": "2026-09-08T09:34:19Z",
+      "stars": 3761,
+      "lastUpdated": "2026-09-09T01:38:16Z",
       "repoUrl": "https://github.com/microsoft/AI-Engineering-Coach",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -668,8 +749,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 9405,
-      "lastUpdated": "2026-09-08T18:51:02Z",
+      "stars": 9408,
+      "lastUpdated": "2026-09-09T03:43:02Z",
       "repoUrl": "https://github.com/anthropics/claude-for-legal",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -695,8 +776,8 @@
       "techStack": [
         "JavaScript"
       ],
-      "stars": 48800,
-      "lastUpdated": "2026-09-09T00:23:38Z",
+      "stars": 48977,
+      "lastUpdated": "2026-09-09T06:15:48Z",
       "repoUrl": "https://github.com/coreyhaines31/marketingskills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -722,8 +803,8 @@
       "techStack": [
         "Shell"
       ],
-      "stars": 3356,
-      "lastUpdated": "2026-09-08T21:48:22Z",
+      "stars": 3357,
+      "lastUpdated": "2026-09-09T04:02:30Z",
       "repoUrl": "https://github.com/charlie947/social-media-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -857,8 +938,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 39054,
-      "lastUpdated": "2026-09-08T22:19:31Z",
+      "stars": 39076,
+      "lastUpdated": "2026-09-09T06:02:31Z",
       "repoUrl": "https://github.com/HKUDS/DeepTutor",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -911,8 +992,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 22846,
-      "lastUpdated": "2026-09-08T21:22:29Z",
+      "stars": 22853,
+      "lastUpdated": "2026-09-09T05:59:14Z",
       "repoUrl": "https://github.com/czlonkowski/n8n-mcp",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1046,8 +1127,8 @@
       "techStack": [
         "Markdown"
       ],
-      "stars": 2580,
-      "lastUpdated": "2026-09-08T22:28:37Z",
+      "stars": 2583,
+      "lastUpdated": "2026-09-09T03:29:28Z",
       "repoUrl": "https://github.com/Owl-Listener/designer-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1181,8 +1262,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 9151,
-      "lastUpdated": "2026-09-08T22:02:48Z",
+      "stars": 9161,
+      "lastUpdated": "2026-09-09T06:04:40Z",
       "repoUrl": "https://github.com/Agents365-ai/drawio-skill",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1208,8 +1289,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 2748,
-      "lastUpdated": "2026-09-08T23:39:02Z",
+      "stars": 2750,
+      "lastUpdated": "2026-09-09T02:42:01Z",
       "repoUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1235,8 +1316,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 2448,
-      "lastUpdated": "2026-09-08T22:20:54Z",
+      "stars": 2450,
+      "lastUpdated": "2026-09-09T01:21:58Z",
       "repoUrl": "https://github.com/softaworks/agent-toolkit",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1292,87 +1373,6 @@
       "stars": 2275,
       "lastUpdated": "2026-09-08T05:37:19Z",
       "repoUrl": "https://github.com/kevinluosl/deepbot",
-      "difficulty": "Intermediate",
-      "featuredIn": [],
-      "scores": {
-        "overall": 50,
-        "learningValue": 50,
-        "productionReadiness": 50,
-        "innovation": 50
-      },
-      "hasAzure": false,
-      "frameworks": []
-    },
-    {
-      "id": "cisco-ai-defense-skill-scanner",
-      "name": "skill-scanner",
-      "owner": "cisco-ai-defense",
-      "ownerAvatar": "https://avatars.githubusercontent.com/u/220944709?v=4",
-      "description": "Security Scanner for Agent Skills",
-      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
-      "category": "Automation",
-      "tags": [],
-      "language": "Python",
-      "techStack": [
-        "Python"
-      ],
-      "stars": 2510,
-      "lastUpdated": "2026-09-08T19:02:30Z",
-      "repoUrl": "https://github.com/cisco-ai-defense/skill-scanner",
-      "difficulty": "Intermediate",
-      "featuredIn": [],
-      "scores": {
-        "overall": 50,
-        "learningValue": 50,
-        "productionReadiness": 50,
-        "innovation": 50
-      },
-      "hasAzure": false,
-      "frameworks": []
-    },
-    {
-      "id": "foryourhealth111-pixel-vibe-skills",
-      "name": "Vibe-Skills",
-      "owner": "foryourhealth111-pixel",
-      "ownerAvatar": "https://avatars.githubusercontent.com/u/251585801?u=3b2f67b0122fab86c8ff2a311ae894381f0835d7&v=4",
-      "description": "Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE.",
-      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
-      "category": "Automation",
-      "tags": [],
-      "language": "Python",
-      "techStack": [
-        "Python"
-      ],
-      "stars": 3210,
-      "lastUpdated": "2026-09-09T00:04:07Z",
-      "repoUrl": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
-      "difficulty": "Intermediate",
-      "featuredIn": [],
-      "scores": {
-        "overall": 50,
-        "learningValue": 50,
-        "productionReadiness": 50,
-        "innovation": 50
-      },
-      "hasAzure": false,
-      "frameworks": []
-    },
-    {
-      "id": "microsoft-skills",
-      "name": "skills",
-      "owner": "microsoft",
-      "ownerAvatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-      "description": "Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents",
-      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
-      "category": "Automation",
-      "tags": [],
-      "language": "TypeScript",
-      "techStack": [
-        "TypeScript"
-      ],
-      "stars": 3002,
-      "lastUpdated": "2026-09-09T00:22:39Z",
-      "repoUrl": "https://github.com/microsoft/skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
       "scores": {
