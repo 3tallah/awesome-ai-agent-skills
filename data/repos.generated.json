@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:09:38.914Z",
+  "generatedAt": "2026-10-19T00:26:14.208Z",
   "source": {
     "starredListUrl": "https://github.com/3tallah?tab=stars",
     "repoCount": 50
@@ -34,6 +34,114 @@
     }
   ],
   "repositories": [
+    {
+      "id": "leonvanzyl-smolcoder",
+      "name": "smolcoder",
+      "owner": "leonvanzyl",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/78896180?u=cec74a7e3301dd9151f16e78725f316db0fdf7eb&v=4",
+      "description": "A highly efficient coding harness for small, local, open-weight models.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "TypeScript",
+      "techStack": [
+        "TypeScript"
+      ],
+      "stars": 118,
+      "lastUpdated": "2026-10-18T23:58:52Z",
+      "repoUrl": "https://github.com/leonvanzyl/smolcoder",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "smol-ai-developer",
+      "name": "developer",
+      "owner": "smol-ai",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/132172705?v=4",
+      "description": "the first library to let you embed a developer agent in your own app!",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 12187,
+      "lastUpdated": "2026-10-18T23:56:50Z",
+      "repoUrl": "https://github.com/smol-ai/developer",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "coleam00-ai-software-factory",
+      "name": "ai-software-factory",
+      "owner": "coleam00",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/47287758?u=aaa9d575d4624a8d7952e455fc752755b012086c&v=4",
+      "description": "You plan the release, the factory builds it, you test it in staging. GitHub issues in, independently reviewed and merged pull requests out, all on Archon workflows.",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 395,
+      "lastUpdated": "2026-10-18T23:55:28Z",
+      "repoUrl": "https://github.com/coleam00/ai-software-factory",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
+    {
+      "id": "autoforgeai-autoforge",
+      "name": "autoforge",
+      "owner": "AutoForgeAI",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/259285071?v=4",
+      "description": "",
+      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
+      "category": "Automation",
+      "tags": [],
+      "language": "Python",
+      "techStack": [
+        "Python"
+      ],
+      "stars": 1769,
+      "lastUpdated": "2026-10-18T23:54:36Z",
+      "repoUrl": "https://github.com/AutoForgeAI/autoforge",
+      "difficulty": "Intermediate",
+      "featuredIn": [],
+      "scores": {
+        "overall": 50,
+        "learningValue": 50,
+        "productionReadiness": 50,
+        "innovation": 50
+      },
+      "hasAzure": false,
+      "frameworks": []
+    },
     {
       "id": "microsoft-ontology-playground",
       "name": "Ontology-Playground",
@@ -74,8 +182,8 @@
       "techStack": [
         "HTML"
       ],
-      "stars": 57558,
-      "lastUpdated": "2026-10-18T18:07:49Z",
+      "stars": 57685,
+      "lastUpdated": "2026-10-19T00:26:03Z",
       "repoUrl": "https://github.com/cathrynlavery/diagram-design",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -182,8 +290,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 61475,
-      "lastUpdated": "2026-10-18T18:05:31Z",
+      "stars": 61538,
+      "lastUpdated": "2026-10-19T00:23:18Z",
       "repoUrl": "https://github.com/Alishahryar1/free-claude-code",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -209,8 +317,8 @@
       "techStack": [
         "CSS"
       ],
-      "stars": 30316,
-      "lastUpdated": "2026-10-18T18:02:58Z",
+      "stars": 30325,
+      "lastUpdated": "2026-10-18T23:35:53Z",
       "repoUrl": "https://github.com/Nutlope/hallmark",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -236,8 +344,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 23997,
-      "lastUpdated": "2026-10-18T18:03:33Z",
+      "stars": 24027,
+      "lastUpdated": "2026-10-19T00:25:16Z",
       "repoUrl": "https://github.com/every-app/open-seo",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -263,8 +371,8 @@
       "techStack": [
         "PowerShell"
       ],
-      "stars": 42546,
-      "lastUpdated": "2026-10-18T18:09:14Z",
+      "stars": 42562,
+      "lastUpdated": "2026-10-19T00:21:12Z",
       "repoUrl": "https://github.com/zhaoxuya520/reverse-skill",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -290,8 +398,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 78035,
-      "lastUpdated": "2026-10-18T18:09:02Z",
+      "stars": 78148,
+      "lastUpdated": "2026-10-19T00:15:00Z",
       "repoUrl": "https://github.com/diegosouzapw/OmniRoute",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -398,8 +506,8 @@
       "techStack": [
         "Shell"
       ],
-      "stars": 301558,
-      "lastUpdated": "2026-10-18T18:05:37Z",
+      "stars": 301649,
+      "lastUpdated": "2026-10-19T00:22:42Z",
       "repoUrl": "https://github.com/obra/superpowers",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -453,7 +561,7 @@
         "Java"
       ],
       "stars": 4321,
-      "lastUpdated": "2026-10-18T17:01:27Z",
+      "lastUpdated": "2026-10-18T23:47:23Z",
       "repoUrl": "https://github.com/camunda/camunda",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -479,8 +587,8 @@
       "techStack": [
         "Go"
       ],
-      "stars": 23802,
-      "lastUpdated": "2026-10-18T17:21:05Z",
+      "stars": 23809,
+      "lastUpdated": "2026-10-19T00:14:41Z",
       "repoUrl": "https://github.com/temporalio/temporal",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -506,8 +614,8 @@
       "techStack": [
         "Java"
       ],
-      "stars": 32333,
-      "lastUpdated": "2026-10-18T15:36:17Z",
+      "stars": 32334,
+      "lastUpdated": "2026-10-18T23:21:30Z",
       "repoUrl": "https://github.com/conductor-oss/conductor",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -560,8 +668,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 11574,
-      "lastUpdated": "2026-10-18T12:18:51Z",
+      "stars": 11575,
+      "lastUpdated": "2026-10-18T20:16:47Z",
       "repoUrl": "https://github.com/cobusgreyling/loop-engineering",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -749,8 +857,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 58490,
-      "lastUpdated": "2026-10-18T17:40:31Z",
+      "stars": 58506,
+      "lastUpdated": "2026-10-18T23:36:45Z",
       "repoUrl": "https://github.com/twentyhq/twenty",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -803,8 +911,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 9727,
-      "lastUpdated": "2026-10-18T14:25:08Z",
+      "stars": 9729,
+      "lastUpdated": "2026-10-18T19:29:32Z",
       "repoUrl": "https://github.com/anthropics/claude-for-legal",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -830,8 +938,8 @@
       "techStack": [
         "JavaScript"
       ],
-      "stars": 55348,
-      "lastUpdated": "2026-10-18T18:02:09Z",
+      "stars": 55380,
+      "lastUpdated": "2026-10-19T00:10:31Z",
       "repoUrl": "https://github.com/coreyhaines31/marketingskills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -857,8 +965,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 4265,
-      "lastUpdated": "2026-10-18T17:40:05Z",
+      "stars": 4268,
+      "lastUpdated": "2026-10-18T21:33:45Z",
       "repoUrl": "https://github.com/charlie947/social-media-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -884,8 +992,8 @@
       "techStack": [
         "Shell"
       ],
-      "stars": 1575,
-      "lastUpdated": "2026-10-18T06:25:52Z",
+      "stars": 1576,
+      "lastUpdated": "2026-10-18T23:45:35Z",
       "repoUrl": "https://github.com/microsoft/azure-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -992,8 +1100,8 @@
       "techStack": [
         "Python"
       ],
-      "stars": 41615,
-      "lastUpdated": "2026-10-18T17:24:12Z",
+      "stars": 41640,
+      "lastUpdated": "2026-10-19T00:21:54Z",
       "repoUrl": "https://github.com/HKUDS/DeepTutor",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1046,8 +1154,8 @@
       "techStack": [
         "TypeScript"
       ],
-      "stars": 23099,
-      "lastUpdated": "2026-10-18T16:42:53Z",
+      "stars": 23101,
+      "lastUpdated": "2026-10-18T23:45:15Z",
       "repoUrl": "https://github.com/czlonkowski/n8n-mcp",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1181,8 +1289,8 @@
       "techStack": [
         "Markdown"
       ],
-      "stars": 2958,
-      "lastUpdated": "2026-10-18T17:51:20Z",
+      "stars": 2959,
+      "lastUpdated": "2026-10-18T22:49:46Z",
       "repoUrl": "https://github.com/Owl-Listener/designer-skills",
       "difficulty": "Intermediate",
       "featuredIn": [],
@@ -1262,117 +1370,9 @@
       "techStack": [
         "Rust"
       ],
-      "stars": 1557,
-      "lastUpdated": "2026-10-18T16:53:09Z",
+      "stars": 1556,
+      "lastUpdated": "2026-10-19T00:25:54Z",
       "repoUrl": "https://github.com/silverstein/minutes",
-      "difficulty": "Intermediate",
-      "featuredIn": [],
-      "scores": {
-        "overall": 50,
-        "learningValue": 50,
-        "productionReadiness": 50,
-        "innovation": 50
-      },
-      "hasAzure": false,
-      "frameworks": []
-    },
-    {
-      "id": "codeaholicguy-ai-devkit",
-      "name": "ai-devkit",
-      "owner": "codeaholicguy",
-      "ownerAvatar": "https://avatars.githubusercontent.com/u/4585708?u=46dddda83b0d81159d688b1438c38836cdea3cdb&v=4",
-      "description": "The control plane for AI coding agents.",
-      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
-      "category": "Automation",
-      "tags": [],
-      "language": "TypeScript",
-      "techStack": [
-        "TypeScript"
-      ],
-      "stars": 1649,
-      "lastUpdated": "2026-10-18T06:29:14Z",
-      "repoUrl": "https://github.com/codeaholicguy/ai-devkit",
-      "difficulty": "Intermediate",
-      "featuredIn": [],
-      "scores": {
-        "overall": 50,
-        "learningValue": 50,
-        "productionReadiness": 50,
-        "innovation": 50
-      },
-      "hasAzure": false,
-      "frameworks": []
-    },
-    {
-      "id": "agents365-ai-drawio-skill",
-      "name": "drawio-skill",
-      "owner": "Agents365-ai",
-      "ownerAvatar": "https://avatars.githubusercontent.com/u/221161299?u=da84f7a6140aa21167258e429e57bbad5b804d2b&v=4",
-      "description": "Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view projection, drift diff, CI architecture tests, whiteboard derasterize, interactive HTML/PPTX/Mermaid exports.",
-      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
-      "category": "Automation",
-      "tags": [],
-      "language": "Python",
-      "techStack": [
-        "Python"
-      ],
-      "stars": 10221,
-      "lastUpdated": "2026-10-18T16:26:39Z",
-      "repoUrl": "https://github.com/Agents365-ai/drawio-skill",
-      "difficulty": "Intermediate",
-      "featuredIn": [],
-      "scores": {
-        "overall": 50,
-        "learningValue": 50,
-        "productionReadiness": 50,
-        "innovation": 50
-      },
-      "hasAzure": false,
-      "frameworks": []
-    },
-    {
-      "id": "aaron-he-zhu-aaron-marketing-skills",
-      "name": "aaron-marketing-skills",
-      "owner": "aaron-he-zhu",
-      "ownerAvatar": "https://avatars.githubusercontent.com/u/139607425?u=0008814732b83e7254153eee861c1ff7d153d7ad&v=4",
-      "description": "120 marketing skills as an AI marketing staff — plugin, portable skills, or an 8-bot team across 7 disciplines (narrative, SEO/GEO, social, email, paid, influencer, launch) on one contract, with 8 auditor gates: TALE · CORE-EEAT · CITE · ECHO · SEND · ROAS · STAR · RAMP.",
-      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
-      "category": "Automation",
-      "tags": [],
-      "language": "Python",
-      "techStack": [
-        "Python"
-      ],
-      "stars": 2976,
-      "lastUpdated": "2026-10-18T15:15:44Z",
-      "repoUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills",
-      "difficulty": "Intermediate",
-      "featuredIn": [],
-      "scores": {
-        "overall": 50,
-        "learningValue": 50,
-        "productionReadiness": 50,
-        "innovation": 50
-      },
-      "hasAzure": false,
-      "frameworks": []
-    },
-    {
-      "id": "softaworks-agent-toolkit",
-      "name": "agent-toolkit",
-      "owner": "softaworks",
-      "ownerAvatar": "https://avatars.githubusercontent.com/u/255869953?v=4",
-      "description": "A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.",
-      "aiSummary": "Pending AI enrichment. Replace this placeholder in the metadata pipeline.",
-      "category": "Automation",
-      "tags": [],
-      "language": "Python",
-      "techStack": [
-        "Python"
-      ],
-      "stars": 2563,
-      "lastUpdated": "2026-10-18T17:45:43Z",
-      "repoUrl": "https://github.com/softaworks/agent-toolkit",
       "difficulty": "Intermediate",
       "featuredIn": [],
       "scores": {
